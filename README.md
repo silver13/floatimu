@@ -6,7 +6,7 @@
 **USE WITH CAUTION**
 
 This is a replacement of bradwii's imu code for hubsan and other quads
-It can be cut and pasted or simply replace the original file.
+It can be cut and pasted or simply replace the original file. There is no compass.
 
 
 This was a small educational project to see if the truncation errors 
