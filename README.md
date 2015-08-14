@@ -1,13 +1,9 @@
 # floatimu
-floating point imu code for bradwii
+*floating point imu code for bradwii*
 
-THIS CODE MAY CONTAIN BUGS
+**THIS CODE MAY CONTAIN BUGS**
 
 it has not been used in modes other then level mode
-it has not been tested in inverted position
-it will have problems at 90 degrees pitch (same as the old code)
-this code does not implement compass
-
 
 This is a replacement of bradwii's imu code for hubsan and other quads
 It can be cut and pasted or simply replace the original file.
