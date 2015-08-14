@@ -18,8 +18,8 @@ translates in better flight characteristics.
 
 
 If it is too big to compile:
-*in Kiel uVision Options for target -> use microlib
-*in Kiel uVision Options for target -> use crossmodule optimization
-*use different approximations by setting SMALL_ANGLE_APPROX and associated options
+* in Kiel uVision Options for target -> use microlib
+* in Kiel uVision Options for target -> use crossmodule optimization
+* use different approximations by setting SMALL_ANGLE_APPROX and associated options
   
 
