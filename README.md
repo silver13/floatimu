@@ -11,7 +11,8 @@ It can be cut and pasted or simply replace the original file.
 
 This was a small educational project to see if the truncation errors 
 in the fixed point code of the original imu code cause instability.
-
+The type of rotations the code performs can be changed between small angle
+and normal type, with 3 levels of precision.
 
 The accuracy of the code is improved compared to the original, and this 
 translates in better flight characteristics.
