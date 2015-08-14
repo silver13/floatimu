@@ -3,7 +3,7 @@
 
 **THIS CODE MAY CONTAIN BUGS**
 
-it has not been used in modes other then level mode
+**USE WITH CAUTION**
 
 This is a replacement of bradwii's imu code for hubsan and other quads
 It can be cut and pasted or simply replace the original file.
